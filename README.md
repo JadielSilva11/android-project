@@ -5,7 +5,7 @@ Este projeto é um site desenvolvido totalmente com HTML5 e CSS3, criado durante
 O objetivo praticar conceitos de estruturação e estilização básicas de páginas web, desenvolvendo um site informativo sobre a história do mascote do Android.
 
 🔗 Acesse o projeto publicado:
-  https://SEU-USUARIO.github.io/android-project/
+  https://jadielsilva11.github.io/android-project/
 
 # Sobre o Projeto
 
